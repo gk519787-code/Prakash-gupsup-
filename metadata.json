@@ -1,0 +1,6 @@
+{
+  "name": "prakash gupsup",
+  "description": "Social frame and reel studio with AI news radar, endless reels, slideable stories, and Gemini Spark creative assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
